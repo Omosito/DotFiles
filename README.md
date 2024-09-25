@@ -13,3 +13,8 @@
 - lxappearances + Breeze Dark Theme
 - Gentoo, Arch, and Void Linux
 - Kate Text Editor
+## TO BE ADDED (maybe)
+- KDE Plasma Config
+- Zed config
+- 
+-

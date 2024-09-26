@@ -8,7 +8,7 @@
 - Thunar File Manager
 - Spotify
 - Discord
-- Firefox (with cattpuccin theme)
+- Firefox (with catppuccin theme)
 - Zed IDE
 - lxappearances + Breeze Dark Theme
 - Gentoo, Arch, and Void Linux

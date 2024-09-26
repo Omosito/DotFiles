@@ -1,5 +1,6 @@
 # REQUIREMENTS:
-- i3 + statusi3 + dmenu
+- i3 + statusi3 + dmenu + picom + dunst
+- 
 - kitty
 - Fira Code Nerd Font
 - feh

@@ -4,6 +4,8 @@
 - Fira Code Nerd Font
 - feh
 - zathura
+- polybar
+- fish shell
 # FOSS Programs I use not in repo
 - Thunar File Manager
 - Firefox (with catppuccin theme)
@@ -13,7 +15,7 @@
 - Kate Text Editor
 - HakuNeko
 - LibreOffice
-- 
+- Joplin
 ## TO BE ADDED (maybe)
 - KDE Plasma Config
 - Zed config
